@@ -16,6 +16,7 @@
 ## Table of Contents
 
 - [About](#about)
+- [Disclaimer](#disclaimer)
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
@@ -37,6 +38,10 @@ SMI (Steam Manifest Installer) is a modern Electron-based desktop application th
 - **User-Friendly**: Simple drag-and-drop interface
 - **Steam Integration**: Seamlessly integrates with your existing Steam installation
 - **Modern UI**: Clean, responsive interface with custom window controls
+
+## Disclaimer
+
+⚠️ **IMPORTANT**: This software is provided for educational purposes only. The author is not responsible for how this software is used or any consequences that may arise from its use. Users are solely responsible for ensuring their use of this software complies with all applicable laws, terms of service, and licensing agreements. Use at your own risk.
 
 ## Features
 
